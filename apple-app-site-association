@@ -1,0 +1,16 @@
+{
+"activitycontinuation": {
+    "apps": [
+      "4Y59FUR69Z.com.e2d3m1.canvas"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "4Y59FUR69Z.com.e2d3m1.canvas",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
